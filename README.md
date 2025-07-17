@@ -15,8 +15,8 @@ Este projeto é um bot para Telegram que remove o fundo de imagens automaticamen
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/Erlon-Lopes-Pessoa-Patricio-de-Araujo/Removedor-de-fundo-bot.git
+   cd Removedor-de-fundo-bot
    ```
 
 2. **Instale as dependências:**
