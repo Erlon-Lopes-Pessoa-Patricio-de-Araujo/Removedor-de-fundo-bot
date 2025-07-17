@@ -27,7 +27,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '8017168268:AAHSMjvc9CpzTtNK6PUuu4_xRVp6bbg-9Ss'
+TOKEN = 'Seu_TOKEN_aqui'
 MAX_CONCURRENT_JOBS = 2  # Reduzido para melhor desempenho em CPU
 
 # Modelos otimizados para CPU
